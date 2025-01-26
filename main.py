@@ -75,10 +75,6 @@ nlp = spacy.load("en_core_web_sm")
 
 # Define fuzzy matching with stricter thresholds
 def fuzzy_match(text, keywords, threshold=90):
-    """
-    Perform fuzzy matching on the text with a stricter threshold.
-    Returns keywords with their scores for debugging.
-    """
     matches = []
     for keyword in keywords:
         score = fuzz.partial_ratio(keyword.lower(), text.lower())
@@ -88,9 +84,6 @@ def fuzzy_match(text, keywords, threshold=90):
 
 # Enhanced entity extraction
 def extract_entities(text):
-    """
-    Extract entities from the text using domain knowledge and spaCy NER.
-    """
     entities = {}
 
     # Domain-specific extraction with stricter fuzzy matching
