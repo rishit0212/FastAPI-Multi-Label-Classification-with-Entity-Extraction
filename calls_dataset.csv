@@ -1,0 +1,101 @@
+id,text_snippet,labels
+1,"We love the analytics, but CompetitorX has a cheaper subscription.","Positive, Pricing Discussion, Objection"
+2,Our compliance team is worried about data handling. Are you SOC2 certified?,Security
+3,"The AI engine is fantastic, but we're concerned about the renewal cost.","Positive, Pricing Discussion"
+4,CompetitorY is offering a discount this quarter. Can you match their price?,"Competition, Pricing Discussion"
+5,We need better data pipeline integration to fit our workflow.,"Objection, Technical Support"
+6,What security measures are in place for GDPR compliance?,"Security, Compliance"
+7,Does the platform support multi-region data compliance policies?,Compliance
+8,We heard CompetitorZ has better customer support.,"Competition, Customer Support"
+9,How does your pricing model compare to CompetitorX?,"Pricing Discussion, Competition"
+10,We require analytics that provide real-time insights.,Technical Support
+11,We need a scalable solution with AI-driven automation.,"Technical Support, Objection"
+12,CompetitorA's product offers better API compatibility.,"Competition, Technical Support"
+13,What are the budget-friendly options available?,Pricing Discussion
+14,Can your software comply with HIPAA regulations?,"Security, Compliance"
+15,We need better insights into user behavior analytics.,Technical Support
+16,Our team needs advanced predictive analytics capabilities.,"Technical Support, Objection"
+17,CompetitorB provides more flexible contract lengths.,"Competition, Pricing Discussion"
+18,How does your cloud integration compare to the market?,"Technical Support, Competition"
+19,Is there a free trial option available?,"Pricing Discussion, Objection"
+20,We need features that align with ISO 27001 standards.,"Security, Compliance"
+21,How does your product handle data encryption?,"Security, Technical Support"
+22,CompetitorC is offering a better cloud integration package.,"Competition, Technical Support"
+23,Can we get a personalized demo before subscribing?,"Objection, Customer Support"
+24,We need seamless API compatibility with our current systems.,Technical Support
+25,What kind of support is provided for data migration?,"Customer Support, Technical Support"
+26,Does your product support PCI DSS compliance?,"Security, Compliance"
+27,We are looking for a budget-friendly annual plan.,Pricing Discussion
+28,How long is the typical contract length?,Pricing Discussion
+29,What measures do you take for CCPA compliance?,"Security, Compliance"
+30,Can your system handle large-scale data processing?,Technical Support
+31,We require AI-driven data visualization.,"Technical Support, Positive"
+32,What happens if we need additional storage?,"Objection, Pricing Discussion"
+33,Do you have any volume discounts available?,Pricing Discussion
+34,Our legal team is reviewing CCPA compliance terms.,Compliance
+35,Can you ensure low latency for global operations?,Technical Support
+36,We need better audit logging features.,"Technical Support, Security"
+37,Can you support hybrid cloud deployment?,Technical Support
+38,We require better documentation for onboarding.,Customer Support
+39,How does CompetitorD compare in terms of scalability?,"Competition, Objection"
+40,What support do you offer for enterprise clients?,Customer Support
+41,Do you offer flexible payment options for startups?,Pricing Discussion
+42,Our team is concerned about downtime during maintenance.,"Objection, Technical Support"
+43,CompetitorE offers better reporting capabilities. How do you compare?,"Competition, Technical Support"
+44,Can your system integrate with third-party CRMs?,Technical Support
+45,We need a platform that supports multi-tenancy.,Technical Support
+46,Does your product offer role-based access control?,"Security, Technical Support"
+47,What disaster recovery options do you provide?,"Security, Compliance"
+48,How frequently do you release new features?,"Objection, Customer Support"
+49,We need support for multiple data storage options.,Technical Support
+50,CompetitorF offers better onboarding assistance.,"Competition, Customer Support"
+51,What are the contract termination terms?,"Pricing Discussion, Objection"
+52,Can you help us achieve SOC2 compliance?,"Compliance, Security"
+53,Do you offer white-labeling options?,"Technical Support, Objection"
+54,Our finance team needs better billing transparency.,"Pricing Discussion, Objection"
+55,What uptime guarantees do you provide?,"Technical Support, Security"
+56,Do you provide on-premise deployment options?,"Technical Support, Objection"
+57,Can your platform support multilingual interfaces?,Technical Support
+58,How do you handle compliance with international data laws?,"Security, Compliance"
+59,Do you provide 24/7 customer support?,Customer Support
+60,What level of customization is available for dashboards?,"Technical Support, Customer Support"
+61,Can you provide a case study of a company in our industry using your product?,"Customer Support, Objection"
+62,How do you ensure compliance with local data residency laws?,"Security, Compliance"
+63,Does your pricing model scale with user growth?,"Pricing Discussion, Objection"
+64,We require a proof-of-concept before making a decision.,"Objection, Customer Support"
+65,What SLA terms do you offer for enterprise customers?,"Technical Support, Pricing Discussion"
+66,Can your platform handle high-volume real-time transactions?,"Technical Support, Objection"
+67,Do you offer a sandbox environment for testing?,"Technical Support, Customer Support"
+68,How do you compare to CompetitorG in terms of scalability?,"Competition, Technical Support"
+69,We need compliance with both GDPR and HIPAA regulations.,"Compliance, Security"
+70,What happens if we exceed our data limits?,"Pricing Discussion, Objection"
+71,Do you offer dedicated account managers for large clients?,Customer Support
+72,How does your AI model explainability compare to the industry standard?,Technical Support
+73,CompetitorH provides more frequent feature updates. How do you compare?,"Competition, Objection"
+74,We require regional support centers for our global operations.,Customer Support
+75,Can your system integrate with legacy databases?,Technical Support
+76,Do you provide training resources for new users?,"Customer Support, Technical Support"
+77,Our procurement team requires a detailed cost breakdown.,"Pricing Discussion, Objection"
+78,What redundancy measures do you have in place?,"Security, Technical Support"
+79,We need automated compliance reporting capabilities.,"Compliance, Technical Support"
+80,Does your product support integration with major cloud providers?,Technical Support
+81,What measures are in place to prevent data breaches?,"Security, Compliance"
+82,Can your solution support our business expansion plans?,"Technical Support, Objection"
+83,CompetitorI offers a more user-friendly interface. Any improvements planned?,"Competition, Objection"
+84,We need better mobile app performance for remote teams.,"Technical Support, Objection"
+85,How do you ensure business continuity in case of an outage?,"Security, Technical Support"
+86,Do you provide quarterly performance reviews for enterprise clients?,Customer Support
+87,What data analytics capabilities are included in the base plan?,"Technical Support, Pricing Discussion"
+88,We require AI-driven forecasting tools. Are they available?,Technical Support
+89,CompetitorJ offers a free onboarding package. Can you match that?,"Competition, Pricing Discussion"
+90,Does your solution support role-based workflow automation?,Technical Support
+91,Can you provide insights on how your solution reduces operational costs?,"Customer Support, Pricing Discussion"
+92,What steps do you take to ensure product scalability?,Technical Support
+93,We need detailed logs for security audits. Is that possible?,"Security, Compliance"
+94,CompetitorK provides custom integration support. How about you?,"Competition, Technical Support"
+95,Are there any limitations in the trial version?,"Pricing Discussion, Objection"
+96,How long does the typical onboarding process take?,Customer Support
+97,Do you have a public roadmap for upcoming features?,Customer Support
+98,We need automated reporting for compliance audits.,"Compliance, Technical Support"
+99,What kind of technical support do you provide for API integrations?,Technical Support
+100,Can your solution support multi-factor authentication?,"Security, Technical Support"
